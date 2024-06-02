@@ -9,5 +9,5 @@ The target.py file is a command that recieves the target IP and updates a TextBo
   <li>Give the file permissions with this command:</li>
   ```
   chmod +x target.py
-  ´´´
+  ```
 </ol>
