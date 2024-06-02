@@ -8,6 +8,8 @@ The target.py file is a command that recieves the target IP and updates a TextBo
   <li>Add the target.py to /usr/locale/bin</li>
   <li>Give the file permissions with this command:</li>
   ```
-  chmod +x target.py
-  ```
+git status
+git add
+git commit
+```
 </ol>
