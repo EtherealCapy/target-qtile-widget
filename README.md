@@ -11,4 +11,4 @@ The `target.py` file is a command that receives a target IP and updates a TextBo
     ```
 
 ### Example of usage
-
+![Demonstration](Usage.gif)
