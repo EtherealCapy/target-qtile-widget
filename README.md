@@ -1,11 +1,11 @@
-<h1>Qtile Target Widget</h1>
+# Qtile Target Widget
 
-<h3>Description</h3>
-The target.py file is a command that recieves the target IP and updates a TextBox widget
+### Description
+The `target.py` file is a command that receives a target IP and updates a TextBox widget.
 
-<h3>Usage</h3>
-1. Add the target.py to /usr/locale/bin
-2. Give the file permissions
-```
-chmod +x target.py
-```
+### Usage
+1. Add `target.py` to `/usr/local/bin`
+2. Give the file execute permissions:
+    ```sh
+    chmod +x target.py
+    ```
