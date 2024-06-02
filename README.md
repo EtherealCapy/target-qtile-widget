@@ -9,3 +9,6 @@ The `target.py` file is a command that receives a target IP and updates a TextBo
     ```sh
     chmod +x target.py
     ```
+
+### Example of usage
+
