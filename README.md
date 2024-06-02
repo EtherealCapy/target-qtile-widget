@@ -7,7 +7,7 @@ The target.py file is a command that recieves the target IP and updates a TextBo
 <ol>
   <li>Add the target.py to /usr/locale/bin</li>
   <li>Give the file permissions with this command:</li>
-  '''bash
+  ```
   chmod +x target.py
-  '''
+  ´´´
 </ol>
