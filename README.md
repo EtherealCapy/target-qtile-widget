@@ -12,3 +12,6 @@ The `target.py` file is a command that receives a target IP and updates a TextBo
 
 ### Example of usage
 ![Demonstration](Usage.gif)
+
+### Advice
+Once you reload Qtile the target turn back to the default text you set on the TextBox
