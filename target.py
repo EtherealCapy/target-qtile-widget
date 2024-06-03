@@ -18,7 +18,7 @@ except ValueError:
     sys.exit(1)
 
 try:
-    subprocess.run(['qtile', 'cmd-obj', '-o', 'widget', 'textbox', '-f', 'update', '-a', ip_objetivo], check=True)    
+    subprocess.run(['qtile', 'cmd-obj', '-o', 'widget', 'target', '-f', 'update', '-a', ip_objetivo], check=True)    
     print(f"El texto del widget se actualizó a: {ip_objetivo}")
 except subprocess.CalledProcessError as e:
     print(f"\n[!] Error al ejecutar el comando de Qtile: {e}")
